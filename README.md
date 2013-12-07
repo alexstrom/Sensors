@@ -43,3 +43,20 @@ Distance: Voltage:
 
 6inch-  .59
 
+
+Left
+------
+
+Distance: Voltage:
+
+1inch-  5.03
+
+2inch-  4.60
+
+3inch-  3.03
+
+4inch-  2.44
+
+5inch-  1.80 
+
+6inch-  1.44
